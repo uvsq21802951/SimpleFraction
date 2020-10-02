@@ -10,8 +10,8 @@ public class Fraction {
 		this.deno = deno;
 	}
 	
-	void afficher() {
-		System.out.println(this.num + " / " + this.deno);
+	public String toString() {
+		return this.num + " / " + this.deno;
 	}
 
 }
