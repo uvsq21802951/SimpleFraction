@@ -1,2 +1,4 @@
 #Ignorer les fichiers crées à la compilation
 bin/*
+#Ignorer tous les fichiers de configurations
+.settings/*
