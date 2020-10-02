@@ -1,0 +1,2 @@
+#Ignorer les fichiers crées à la compilation
+bin/*
